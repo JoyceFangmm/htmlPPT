@@ -4,6 +4,3 @@
 [submodule "test/reveal.js"]
 	path = test/reveal.js
 	url = https://github.com/hakimel/reveal.js.git
-[submodule "testNoJs/reveal.js"]
-	path = testNoJs/reveal.js
-	url = https://github.com/hakimel/reveal.js.git
