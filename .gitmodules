@@ -1,3 +1,6 @@
 [submodule "htmlPPT"]
 	path = htmlPPT
 	url = https://github.com/JoyceFangmm/htmlPPT.git
+[submodule "reveal.js"]
+	path = reveal.js
+	url = https://github.com/hakimel/reveal.js.git
